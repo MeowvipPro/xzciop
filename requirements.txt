@@ -1,0 +1,9 @@
+pandas==2.1.1
+numpy==1.26.0
+Flask==2.2.2
+Flask-JWT==0.3.2
+flask-wtf
+joblib==0.14.0
+WTForms==2.2.1
+Werkzeug==2.2.2
+tensorflow==2.11.1
